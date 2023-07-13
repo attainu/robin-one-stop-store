@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "hbs": "^4.1.1",
     "mongoose": "^5.9.19",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   },
   "type": "module"
 }
